@@ -1,2 +1,2 @@
 # eyesaver
-Program that force you to rest your eyes within time, under your computer work.
+Program that force you to rest your eyes under your computer work.

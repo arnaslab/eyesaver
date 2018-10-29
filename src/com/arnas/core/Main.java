@@ -9,7 +9,7 @@ public class Main {
 		try {
 			new Main(Integer.parseInt(args[0]), Integer.parseInt(args[1]));
 		} catch (ArrayIndexOutOfBoundsException e) {
-			new Main(3, 0);
+			new Main(1, 30);
 		}
 	}
 	
